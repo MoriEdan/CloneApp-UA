@@ -14,7 +14,7 @@
 *** 
 <h1 align="center">
 <sub>
-<img  src="https://github.com/Mirinsoft/CloneApp/raw/master/cloneapp.png.png"
+<img  src="https://github.com/Mirinsoft/CloneApp-UA/raw/master/cloneapp.png.png"
       height="38"
       width="38">
 </sub>
@@ -25,7 +25,7 @@ CloneApp for Universal Windows Apps - Backs up settings of UWP applications!
 <p align="center">
 CloneApp UA is a free program for Microsoft's Windows 10 operating system that users and administrators may use to back up or restore settings of UWP applications on Windows 10 devices.
  
-![alt text](https://github.com/mirinsoft/CloneApp-UA/blob/master/cloneapp-ua.gif)
+![alt text](https://github.com/mirinsoft/CloneApp-UA/blob/master/cloneapp-ua-intro.gif)
 
 </p>
 
