@@ -33,8 +33,6 @@ CloneApp UA is a free program for Microsoft's Windows 10 operating system that u
 
 </p>
 
-<h4 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
-
 ## The  program supports the same functionality as the classic [CloneApp for Desktop](https://github.com/mirinsoft/CloneApp) but for Microsoft Store applications, aka Universal Windows Platform (UWP) apps.
 
 First thing you need to do is click on the scan link to scan the current system for UWP applications. All UWP apps found are listed in the middle column after the scan. Each application is listed with its name and a checkbox to select it.
@@ -65,4 +63,10 @@ https://www.mirinsoft.com/ua
 Please use the [official community](https://www.mirinsoft.com/community)
 
 You can also reach out to me on [Twitter](https://twitter.com/CloneApp)
+
+<br>
+
+Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
+
+<p align="center"><a href="http://www.imirin.com/donate"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a></p>
 
