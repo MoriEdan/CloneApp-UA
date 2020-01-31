@@ -14,7 +14,7 @@
 *** 
 <h1 align="center">
 <sub>
-<img  src="https://github.com/Mirinsoft/CloneApp-UA/raw/master/cloneapp.png.png"
+<img  src="https://github.com/mirinsoft/CloneApp-UA/blob/master/cloneapp.png.png"
       height="38"
       width="38">
 </sub>
