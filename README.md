@@ -1,5 +1,5 @@
 <a href="https://github.com/Mirinsoft/CloneApp-ua/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp.svg" />
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp-ua.svg" />
 </a>
 <a href="https://github.com/Mirinsoft/CloneApp-ua/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CloneApp/total.svg?style=flat-square" />
