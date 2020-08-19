@@ -1,20 +1,20 @@
-<a href="https://github.com/Mirinsoft/CloneApp-ua/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp-ua.svg" />
+<a href="https://github.com/builtbybel/CloneApp-ua/releases/latest" target="_blank">
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/cloneapp-ua.svg" />
 </a>
-<a href="https://github.com/Mirinsoft/CloneApp-ua/releases" target="_blank">
- <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CloneApp-UA/total.svg?style=flat-square" />
+<a href="https://github.com/builtbybel/CloneApp-ua/releases" target="_blank">
+ <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybelCloneApp-UA/total.svg?style=flat-square" />
 </a>
-<a href="https://www.mirinsoft.com/donate/cloneapp" target="_blank">
+<a href="https://www.builtbybel.com/donate/cloneapp" target="_blank">
  <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
 </a>
-<a href="https://twitter.com/cloneapp" target="_blank">
- <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cloneapp.svg?label=Follow" />
+<a href="https://twitter.com/builtbybel" target="_blank">
+ <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/builtbybel.svg?label=Follow" />
 </a>
 
 *** 
 <h1 align="center">
 <sub>
-<img  src="https://github.com/mirinsoft/CloneApp-UA/blob/master/cloneapp.png"
+<img  src="https://github.com/builtbybel/CloneApp-UA/blob/master/cloneapp.png"
       height="38"
       width="38">
 </sub>
@@ -25,7 +25,7 @@ CloneApp for Universal Windows Apps - Backs up settings of UWP applications!
 <p align="center">
 CloneApp UA is a free program for Microsoft's Windows 10 operating system that users and administrators may use to back up or restore settings of UWP applications on Windows 10 devices.
  
-![alt text](https://github.com/mirinsoft/CloneApp-UA/blob/master/cloneapp-ua-intro.gif)
+![alt text](https://github.com/builtbybel/CloneApp-UA/blob/master/cloneapp-ua-intro.gif)
 
 </p>
 
@@ -33,7 +33,7 @@ CloneApp UA is a free program for Microsoft's Windows 10 operating system that u
 
 </p>
 
-## The  program supports the same functionality as the classic [CloneApp for Desktop](https://github.com/mirinsoft/CloneApp) but for Microsoft Store applications, aka Universal Windows Platform (UWP) apps.
+## The  program supports the same functionality as the classic [CloneApp for Desktop](https://github.com/builtbybel/CloneApp) but for Microsoft Store applications, aka Universal Windows Platform (UWP) apps.
 
 First thing you need to do is click on the scan link to scan the current system for UWP applications. All UWP apps found are listed in the middle column after the scan. Each application is listed with its name and a checkbox to select it.
 
@@ -57,13 +57,11 @@ Repair supports four operations currently:
 ## Download 
 
 #### CloneApp
-https://www.mirinsoft.com/ua
+https://www.builtbybel.com/ua
 
 ## Suggesting features / providing feedback
-Please use the [official community](https://www.mirinsoft.com/community)
-
-You can also reach out to me on [Twitter](https://twitter.com/CloneApp)
+You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
 
 <br>
 
-Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
+© [builtbybel](https://builtbybelcom "Good apps are as little apps as possible") with ❤︎.
