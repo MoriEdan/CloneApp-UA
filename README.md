@@ -2,7 +2,7 @@
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/cloneapp-ua.svg" />
 </a>
 <a href="https://github.com/builtbybel/CloneApp-ua/releases" target="_blank">
- <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybelCloneApp-UA/total.svg?style=flat-square" />
+ <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/CloneApp-UA/total.svg?style=flat-square" />
 </a>
 <a href="https://www.builtbybel.com/donate/cloneapp" target="_blank">
  <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
